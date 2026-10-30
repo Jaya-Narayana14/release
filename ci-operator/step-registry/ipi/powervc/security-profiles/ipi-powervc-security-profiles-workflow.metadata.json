@@ -1,0 +1,13 @@
+{
+   "path":"ipi/powervc/security-profiles/ipi-powervc-security-profiles-workflow.yaml",
+   "owners":{
+      "approvers":[
+         "powervc-approvers",
+         "multiarch-approvers"
+      ],
+      "reviewers":[
+         "powervc-reviewers",
+         "multiarch-approvers"
+      ]
+   }
+}
