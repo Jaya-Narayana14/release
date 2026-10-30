@@ -71,6 +71,12 @@ ref:
     default: ""
     documentation: |-
       Specific to Network Observability, to specify CatalogSource Image for NOO
+  - name: SECURITY_PROFILES_TEST_VERSION
+    default: ""
+    documentation: Security Profiles version supplied to the test process.
+  - name: INSTALLER
+    default: ""
+    documentation: Installer identifier supplied to the test process.
   resources:
     requests:
       cpu: "1"
